@@ -1,0 +1,5 @@
+Zeta serisi, $\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}$ şeklindeki seriyi ifade eder. Burada, $s$ bir parametredir ve $s > 1$ olması gerekmektedir. Zeta serisi, Yunan matematikçi Leonard Euler tarafından incelenmiştir.
+
+Zeta serisi, asal sayıların dağılımı, Riemann hipotezi, karmaşık analiz, teorik fizik ve daha birçok alanda kullanılmaktadır. Örneğin, $s = 2$ için zeta serisi, $\frac{\pi^2}{6}$ şeklinde bir sonuç verir. Bu sonuç, matematikte önemli bir yere sahip olan Basel problemi için bir çözüm sağlar.
+
+Zeta serisi aynı zamanda, Riemann zeta fonksiyonunun da temel tanımını oluşturur. Riemann zeta fonksiyonu, $s = \sigma + it$ şeklinde karmaşık sayılar için tanımlanır ve zeta serisi ile ilişkilidir. Özellikle, $s = \frac{1}{2} + it$ için zeta fonksiyonu, Dirichlet L-fonksiyonu ve Dirichlet karakteri gibi özel fonksiyonlarla ilişkilidir.
